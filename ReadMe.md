@@ -2,9 +2,11 @@
 ![alt text](image-2.png)
 
 ## Video: A Intro
+Es wurde fehlerfrei erledigt. Die Änderungen in "application.properties" wurde vorgenommen, wie im Video gezeigt. Zum Schluss wurde "StundentenverwaltungApplication.java" ausgeführt.
 Neues Projekt erstellt mit Klassen und Interfaces sowie Paketen
 
 ## Video: B Domainlayer und Repository
+Dieses Video wurde auch erledigt. Wir haben ein Paket als "Domain" und als "Reposotories" erstellt. Im Paket Reposotiries haben wir ein Interface "StudentJPARepo" erstellt und in Domain haben wir eine Klasse "Student" erstellt. In Student haben wir drei Students definiert, die wir auf der Datenbank sehen können. Dazu haben wir noch ein paar Sachen erledigt. 
 Neues Paket wurde erstellt und mit Klassen und Interfaces
 
 ## Video: C Datenlayer
@@ -14,4 +16,5 @@ Wir haben @Component und @Autowirde benutzt. Wir haben eine neues Interface sowi
 Neues Packet namens Service wurde erstellt, mit einem Interface sowie einer Klasses.
 
 ## Video: E ControllerLayer
+
 
