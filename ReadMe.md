@@ -16,5 +16,10 @@ Wir haben @Component und @Autowirde benutzt. Wir haben eine neues Interface sowi
 Neues Packet namens Service wurde erstellt, mit einem Interface sowie einer Klasses.
 
 ## Video: E ControllerLayer
+Neues Packet namens controller und eine Klasse namens StudentRestController wurde erstellt. Es wurden Methoden erstellt danach wurde eine @GETMapping SpringBoot Annotation deklariert mit welche man dann HTTP GET-Anfragen mappen kann. Mit der Annotation @POSTMapping werden HTTP Anfragen im Controller bzw Rest-Controller zugeordnet. Sonst haben wir noch @DELETEMapping, @RESTController und @REQUESTMapping. 
+
+## Video: F F Exceptions und Validierung
+Es wurden zwei neue Exceptions erstellt, ExceptionDTO und StudentValidierungFehlgeschlagen. Ich hatte paar fehler, die im Video nicht vorkamen aber ich konnte sie lösen, bis auf ein Fehler. Dieser Fehler ist immer noch vorhanden. 
+
 
 
